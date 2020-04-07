@@ -1,6 +1,6 @@
-> Esta página é oficial, criada no 25 janiero de 2020.
+> Esta página é oficial, criada no dia 25 janeiro de 2020.
 
-Projeto esta na licença GNU/Linux. Respeite os direitos - 2020 (c)
+Projeto está na licença GNU/Linux. Respeite os direitos - 2020 (c)
 
 ## Sistema: Tutor Inteligente com CTAT.
 
