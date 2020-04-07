@@ -10,5 +10,6 @@ Projeto esta na licença GNU/Linux. Respeite os direitos - 2020 (c)
 
 Este repositório contém todo material utilizado na construção do sistema CTAT.
 
-[Repositório do projeto](https://github.com/davinyvidal/tutor-inteligente-lei-de-Ohm)
+* [Repositório do projeto](https://github.com/davinyvidal/tutor-inteligente-lei-de-Ohm)
 
+* [Página inicial](https://davinyvidal.github.io)
