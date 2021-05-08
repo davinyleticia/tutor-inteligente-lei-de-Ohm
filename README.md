@@ -12,4 +12,3 @@ Este repositório contém todo material utilizado na construção do sistema CTA
 
 * [Repositório do projeto](https://github.com/davinyvidal/tutor-inteligente-lei-de-Ohm)
 
-* [Página inicial](https://davinyvidal.github.io)
